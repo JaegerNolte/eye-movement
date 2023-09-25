@@ -1,4 +1,4 @@
-Eye Movement Excercise
+# Eye Movement Excercise
 
 Description: The Eye Movement Excercise is designed to follow the users mouse cursor.
 
